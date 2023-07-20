@@ -1,0 +1,62 @@
+/* autoprefixer grid: autoplace */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;0,700;1,200;1,400;1,500;1,700&display=swap');
+$main-font: 'Poppins', sans-serif;
+
+$aqua-light: #53D2DC;
+$aqua-medium: #12BBBA;
+$aqua-dark: #18A2A5;
+
+$orange-light: #FFF0AA;
+$orange-medium: #FFC060;
+$orange-dark: #FF826C;
+
+$light: #FFFFFF;
+$dark: #000000;
+
+$bg-color: rgba($aqua-light, 0.4);
+
+html, body, #root{
+	height: 100vh;
+	width: 100vw;
+	overscroll-behavior: none;
+}
+
+html, body, * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: $main-font;
+	transition: all ease 0.25s;
+}
+
+@mixin v-gap($size: 1em) {
+	&:nth-child(n) { margin-top: $size; }
+	&:nth-child(1) { margin-top: 0em; }
+}
+
+@mixin h-gap($size: 1em) {
+	&:nth-child(n) { margin-left: $size; }
+	&:nth-child(1) { margin-left: 0em; }
+}
+
+/* FADE ANIMATION */
+.fade-appear,
+.fade-enter {
+    opacity: 0;
+    z-index: 1;
+}
+.fade-appear-active,
+.fade-enter.fade-enter-active {
+    opacity: 1;
+    transition: opacity 300ms ease 150ms;
+}
+
+.fade-exit {
+    opacity: 1;
+}
+
+.fade-exit.fade-exit-active {
+    opacity: 0;
+    transition: opacity 150ms ease;
+}

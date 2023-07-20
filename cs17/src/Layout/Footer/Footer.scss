@@ -1,0 +1,23 @@
+@import '../../Main.scss';
+
+.footer-wrapper {
+	background-color: rgba($aqua-medium, 0.9);
+	height: 10vh;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 2em;
+	color: $dark;
+
+	a { color: $dark; }
+	div { text-align: center; }
+}
+
+.footer-resize {
+	height: fit-content;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 2em;
+	& > * { @include v-gap(1em); }
+}

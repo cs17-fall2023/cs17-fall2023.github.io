@@ -1,0 +1,131 @@
+@import '../../Main.scss';
+
+.header-wrapper {
+	height: 15vh;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 4em;
+
+	background-color: $light;
+
+	.logo-wrapper {
+		width: 10vh;
+		display: flex;
+		align-items: center; justify-content: center;
+		transition: all 0s ease;
+
+		svg { fill: $orange-dark; }
+	}
+
+	.tabs-wrapper {
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-evenly;
+		& > * { @include h-gap(2em); }
+
+		.active {
+			color: $orange-dark !important;
+		}
+
+		a { text-decoration: none; user-select: none; }
+		.tab-wrapper {
+
+			font-size: 1em;
+			text-transform: uppercase;
+			color: $dark;
+			font-weight: 700;
+
+			position: relative;
+
+			&:after {
+				content: '';
+				width: 0%;
+				opacity: 0;
+				height: 0.25em;
+				position: absolute;
+				bottom: -0.25em;
+				left: 0; right: 0;
+				margin-left: auto; margin-right: auto;
+				transition: width 0.25s ease, opacity 0.25s ease;
+
+				background-color: $orange-medium;
+			}
+
+			&:hover {
+				.tab-children { opacity: 1;	padding: 1em; height: auto; overflow: auto; }
+				&:after { width: 100%; opacity: 1; }
+			}
+
+			.tab-children {
+				position: absolute;
+				top: 2.25em;
+				left: -1em;
+				z-index: 10;
+				padding: 0 1em;
+				height: 0; overflow: hidden;
+
+				display: flex;
+				flex-direction: column;
+				align-items: flex-start;
+
+				& > .tab-children-text { @include v-gap(0.5em); }
+
+				border-radius: 0.5em;
+
+				background-color: $light;
+				box-shadow: 0 0.25em 0.5em 0em rgba($dark, 0.2);
+				opacity: 0;
+
+				.tab-children-text {
+					color: $dark;
+					&:hover { color: $orange-medium; }
+				}
+			}
+		}
+	}
+}
+
+.header-resize {
+	padding: 0 2em;
+	.header-hamburger { font-size: 3em; transform: scaleX(0.85) }
+
+	.header-background-fill {
+		position: fixed;
+		height: 100vh; width: 100vw;
+		top: 0; left: 0;
+		opacity: 0; background-color: black;
+		pointer-events: none;
+		z-index: 1;
+	}
+
+	.header-fill {
+		pointer-events: visible;
+		opacity: 0.5;
+	}
+
+	.tabs-wrapper {
+		position: fixed;
+		height: 100vh; width: 25vh;
+		overflow: hidden;
+		left: -25vh; top: 0;
+		z-index: 10;
+
+		background-color: $light;
+
+		flex-direction: column;
+		justify-content: flex-start;
+		& > * { @include v-gap(3em); @include h-gap(0em); }
+		padding: 4em;
+
+		.tab-wrapper {
+			.tab-children {
+				top: 50%; transform: translateY(-50%);
+				left: unquote("calc(100% + 2em)");
+			}
+		}
+	}
+
+	.header-open { left: 0; overflow: visible; }
+}
