@@ -3,9 +3,9 @@ import { FaQuestion, FaSchool, FaShoePrints, FaComment, FaFileAlt, FaCode } from
 export const ImportantLinks = [
 	{ label: "Syllabus", icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1bmMQqKr51Oi9FnGxf6XuV2DYz8ajxbaT/view?usp=sharing", description: "Class info, grading, and late policy" },
 	{ label: "Gradescope", icon: <FaSchool />, link: "https://www.gradescope.com/", description: "Submit homework, projects, and exams" },
-	{ label: "EdStem", icon: <FaQuestion />, link: "https://edstem.org/us/join/2QYWUz", description: "Ask clarification, debugging, and conceptual questions" },
+	{ label: "EdStem", icon: <FaQuestion />, /*link: "https://edstem.org/us/join/2QYWUz",*/ description: "Ask clarification, debugging, and conceptual questions" },
 	{ label: "Hours", icon: <FaComment />, link: "https://hours.cs.brown.edu", description: "Sign up for TA hours or lab queues" },
-	{ label: "Lab Assignments", icon: <FaShoePrints />, link: "https://docs.google.com/spreadsheets/d/1rUxIId_k6UXRJxxQ1FViy_Ils7R4sazCfAoSsujjHKc/edit?usp=sharing", description: "See lab sections" },
+	{ label: "Lab Assignments", icon: <FaShoePrints />, /*link: "https://docs.google.com/spreadsheets/d/1rUxIId_k6UXRJxxQ1FViy_Ils7R4sazCfAoSsujjHKc/edit?usp=sharing",*/ description: "See lab sections" },
 	{ label: "RePlay", icon: <FaCode />, link: "https://csci017.cs.brown.edu/", description: "ReasonML playground" },
 	// { label: "Zoom Link", icon: <FaVideo />, link: "https://brown.zoom.us/j/95809383337", description: "Attend class at 11 a.m. MWF" },
 ]

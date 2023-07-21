@@ -124,9 +124,9 @@ class HomePage extends React.Component {
 						<h1>Current Assignments</h1>
 						{this.renderDueSoonCards()}
 					</div>
-					<div className="home-hours">
+					{/* <div className="home-hours">
 						<iframe title={"Google Calendar"} src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=c_ps3eodtd5du8kv8deeka76vrb0%40group.calendar.google.com&color=%23BE6D00&mode=WEEK&showPrint=0&showDate=1&showNav=1" style={{ border: 0 }} width="800" height="600" frameborder="0" scrolling="no"></iframe>
-					</div>
+					</div> */}
 				</div>
 			</Page>
 		);
