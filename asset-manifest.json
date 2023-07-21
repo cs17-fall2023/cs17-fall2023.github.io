@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cs17fall2023.github.io/static/css/main.94282d8c.chunk.css",
-    "main.js": "/cs17fall2023.github.io/static/js/main.44c88871.chunk.js",
-    "main.js.map": "/cs17fall2023.github.io/static/js/main.44c88871.chunk.js.map",
+    "main.js": "/cs17fall2023.github.io/static/js/main.d88ef643.chunk.js",
+    "main.js.map": "/cs17fall2023.github.io/static/js/main.d88ef643.chunk.js.map",
     "runtime-main.js": "/cs17fall2023.github.io/static/js/runtime-main.bbe9081d.js",
     "runtime-main.js.map": "/cs17fall2023.github.io/static/js/runtime-main.bbe9081d.js.map",
     "static/js/2.0b41baac.chunk.js": "/cs17fall2023.github.io/static/js/2.0b41baac.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.bbe9081d.js",
     "static/js/2.0b41baac.chunk.js",
     "static/css/main.94282d8c.chunk.css",
-    "static/js/main.44c88871.chunk.js"
+    "static/js/main.d88ef643.chunk.js"
   ]
 }
