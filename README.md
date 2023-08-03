@@ -1,5 +1,7 @@
 # CS17 Fall 2023 Website
 
+Hosted at https://cs17-fall2023.github.io/cs17fall2023.github.io/.
+
 ## Making Updates
 
 * To release assignments, labs, or projects, you can usually find that in `src/Info`.
