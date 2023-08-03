@@ -6,6 +6,8 @@
 
 * Announcements can be updated in `src/Pages/HomePage/HomePage.js`.
 
+* Code/structure of the page can be found in `src/Components` or `src/Pages`.
+
 * Commit changes. Pull and merge changes if necessary.
 
 * Run the website locally with `npm start` to make sure new changes don't break anything. Go to http://localhost:3000/ in a browser.
