@@ -92,7 +92,7 @@ class HomePage extends React.Component {
 							<p>
 								Welcome!! CS17 (CSCI 0170) is an intro computer
 								science class at Brown University — emphasis on intro!!
-								We take your ideas very seriously and want to make a welcoming environment
+								We want to make a welcoming environment
 								for everyone who wants to learn CS! {/* — fill out our {" "}
 								<a href="https://docs.google.com/forms/d/e/1FAIpQLSc90q808orP2UEUYiZSWGvaqc2lLEe_-UdPoGmPa2Cj5vNSUg/viewform" target="_blank" rel="noopener noreferrer">
 									anonymous feedback form
@@ -124,9 +124,9 @@ class HomePage extends React.Component {
 						<h1>Current Assignments</h1>
 						{this.renderDueSoonCards()}
 					</div>
-					{/* <div className="home-hours">
-						<iframe title={"Google Calendar"} src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=c_ps3eodtd5du8kv8deeka76vrb0%40group.calendar.google.com&color=%23BE6D00&mode=WEEK&showPrint=0&showDate=1&showNav=1" style={{ border: 0 }} width="800" height="600" frameborder="0" scrolling="no"></iframe>
-					</div> */}
+					<div className="home-hours">
+						<iframe title={"Google Calendar"} src="https://calendar.google.com/calendar/embed?src=c_e68c058f258d2ce5f22f29e7d54bacd4eb55bc7e877d6641887cd3c76bea919a%40group.calendar.google.com&ctz=America%2FNew_York" style={{ border: 0 }} width="800" height="600" frameborder="0" scrolling="no"></iframe>
+					</div>
 				</div>
 			</Page>
 		);
