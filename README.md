@@ -16,6 +16,6 @@ Hosted at https://cs17-fall2023.github.io/cs17fall2023.github.io/.
 
 * Push changes.
 
-* `npm run deploy` to actually deploy changes to the website. This connects to the gh-pages branch.
+* run `npm run build` and then `npm run deploy` to actually deploy changes to the website. This connects to the gh-pages branch.
 
 For more information, see https://github.com/gitname/react-gh-pages.
