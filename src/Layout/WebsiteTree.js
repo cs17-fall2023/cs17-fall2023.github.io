@@ -1,5 +1,5 @@
 const tree = [
-	{ label: "Home", navigation: "/", children: [] },
+	{ label: "Home", navigation: "/cs17fall2023.github.io", children: [] },
 	{
 		label: "Notes", navigation: "/classes", children:
 			[
