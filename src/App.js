@@ -27,7 +27,7 @@ import Workshops from './Info/Notes/Workshops/Workshops';
 
 function App() {
 	return (
-		<Router>
+		<Router basename = "/cs17fall2023.github.io">
 			<Route render={({location}) => (
 				<TransitionGroup>
 					<CSSTransition key={location.key} timeout={300} classNames="fade">
@@ -38,8 +38,8 @@ function App() {
 							<Route path="/classes"><NotesPage notes={Classes} activeTab="Classes"/></Route>
 							<Route path="/workshops"><NotesPage notes={Workshops} activeTab="Workshops"/></Route>
 							<Route path="/staff"><StaffPage/></Route>
-							<Route path="/cs17-fall2023.github.io/resources"><ResourcesPage/></Route>
-							<Route path="/cs17-fall2023.github.io"><HomePage/></Route>
+							<Route path="/resources"><ResourcesPage/></Route>
+							<Route path="/"><HomePage/></Route>
 						</Switch>
 					</CSSTransition>
 				</TransitionGroup>
