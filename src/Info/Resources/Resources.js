@@ -40,7 +40,7 @@ export const Resources = [
 				// { label: "Work from Home Guide", link: "https://cs.brown.edu/about/system/connecting/ssh/" }, 
 				{ label: "SSH Guide", link: "https://drive.google.com/file/d/1QTqRNN0H00ZYkyfD-PRKYskF4ZNy79PS/view?usp=sharing" },
 				{ label: "Download DrRacket", link: "https://racket-lang.org/download/" },
-				{ label: "ReasonML Installation and Compilation Guide", link: "https://drive.google.com/file/d/1hJJp4-og2DEjeOYsi1jlOkqubX8ApAIP/view?usp=sharing" },
+				{ label: "ReasonML Installation and Compilation Guide", link: "https://drive.google.com/file/d/1quOux6_2MUKsZsq9AcG0wxxAzZEp526O/view?usp=sharing" },
 				{ label: "CS17 Racket Installation Video Guide (Mac)", link: "https://drive.google.com/file/d/1wy482mD0ZCqfl8Jcz_25sKV7FeBBGML6/view?usp=sharing" },
 				{ label: "CS17 ReasonML Installation Video Guide (Mac)", link: "https://drive.google.com/file/d/16nsMWf-jrHhmqKv-87n-VNExYE7P4nGY/view?usp=sharing" },
 				{ label: "CS17 Racket Installation Video Guide (Windows)", link: "https://drive.google.com/file/d/1GfrL5xz7HQhBbkTxKvHJ5yH4lfQk3lpv/view?usp=sharing" },
