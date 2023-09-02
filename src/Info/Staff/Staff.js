@@ -9,7 +9,7 @@ const staff = [
 	{
 		name: "Jean (HTA)", login: "syoo28", image: staffImages.Jean,
 		hometown: "Salt Lake City, UT", birthday: "January 16", pronouns: "she/her/hers",
-		bio: "Hi! I'm a junior studying CS. I love coffee, Taylor Swift, and breakfast for dinner. In my free time, I like to go on hikes, solve the NYT mini crossword, ski, and read books."
+		bio: "Hi! I'm a junior studying CS. I like coffee, books, Taylor Swift, running, practicing and listening to music, and solving NYT crosswords."
 	},
 	{
 		name: "Kristen (HTA)", login: "kcai6", image: staffImages.Kristen,
