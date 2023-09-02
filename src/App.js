@@ -38,8 +38,8 @@ function App() {
 							<Route path="/classes"><NotesPage notes={Classes} activeTab="Classes"/></Route>
 							<Route path="/workshops"><NotesPage notes={Workshops} activeTab="Workshops"/></Route>
 							<Route path="/staff"><StaffPage/></Route>
-							<Route path="/https://cs17-fall2023.github.io/resources"><ResourcesPage/></Route>
-							<Route path="/https://cs17-fall2023.github.io"><HomePage/></Route>
+							<Route path="/cs17-fall2023.github.io/resources"><ResourcesPage/></Route>
+							<Route path="/cs17-fall2023.github.io"><HomePage/></Route>
 						</Switch>
 					</CSSTransition>
 				</TransitionGroup>
