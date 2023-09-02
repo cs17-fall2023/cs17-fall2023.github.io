@@ -19,7 +19,7 @@ const staff = [
 	{
 		name: "Melinda (HTA)", login: "mzhan157", image: staffImages.Melinda,
 		hometown: "Andover, MA", birthday: "August 12", pronouns: "she/her/hers",
-		bio: "Hi everyone!! I'm a junior studying computational biology. I love cooking and trying new foods, drinking chai/matcha in the engineering cafe, spending time with friends, listening to music (always open to recs!), and going on night walks. I'm so excited to meet and work with you all :))"
+		bio: "Hey everyone! I’m a junior studying computational biology. I love cooking and trying new foods, drinking hojicha lattes, and going on picnics! If you’re reading this, send me your favorite song! So excited to meet and work with you all :))"
 	},
 	{
 		name: "Alex", login: "aliang19", image: staffImages.Alex,
@@ -29,7 +29,7 @@ const staff = [
 	{
 		name: "Ari", login: "acodjoe", image: staffImages.Ari,
 		hometown: "Newtown, PA", birthday: "December 14", pronouns: "she/her/hers",
-		bio: "Hi guys, my name is Ari, and I’m a sophomore from Newtown, PA. I’m studying APMA-CS. Fun fact: I’m a big broadway fan and I have 3 dogs :^)"
+		bio: "Hi guys, my name is Ari, and I’m a junior from Newtown, PA. I’m studying APMA-CS. Fun fact: I’m a big broadway fan and I have 3 dogs :^)"
 	},
 	{
 		name: "Bogdan", login: "bkaravan", image: staffImages.Bohdan,
@@ -68,7 +68,7 @@ const staff = [
 	},
 	{
 		name: "Patrick", login: "-", image: staffImages.Patrick,
-		hometown: "-", birthday: "-", pronouns: "he/they",
+		hometown: "-", birthday: "-", pronouns: "-",
 		bio: "-"
 	},
 	{
