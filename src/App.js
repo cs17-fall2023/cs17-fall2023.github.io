@@ -27,7 +27,7 @@ import Workshops from './Info/Notes/Workshops/Workshops';
 
 function App() {
 	return (
-		<Router basename = "cs17fall2023.github.io/">
+		<Router basename = "/cs17fall2023.github.io">
 			<Route render={({location}) => (
 				<TransitionGroup>
 					<CSSTransition key={location.key} timeout={300} classNames="fade">
