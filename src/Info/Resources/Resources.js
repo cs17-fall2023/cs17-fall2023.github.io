@@ -45,8 +45,8 @@ export const Resources = [
 				{ label: "CS17 ReasonML Installation Video Guide (Mac)", link: "https://drive.google.com/file/d/16nsMWf-jrHhmqKv-87n-VNExYE7P4nGY/view?usp=sharing" },
 				{ label: "CS17 Racket Installation Video Guide (Windows)", link: "https://drive.google.com/file/d/1GfrL5xz7HQhBbkTxKvHJ5yH4lfQk3lpv/view?usp=sharing" },
 				{ label: "CS17 ReasonML Installation Video Guide (Windows)", link: "https://drive.google.com/file/d/15Sw2_5MRtTy5vBe373VP8M4g84LCImSy/view?usp=sharing" },
-				{ label: "CS17 Racket Teachpack", link: "https://drive.google.com/file/d/1_aVNIFGbceWrutNcQfnNxZO-gIuUwL8l/view?usp=sharing" },
-				{ label: "CS17 ReasonML Teachpack", link: "https://drive.google.com/file/d/1SVeXg7kYU9MYScDVhUO5cto9eYL8WtT4/view?usp=sharing" }, 
+				{ label: "CS17 Racket Teachpack", link: "https://drive.google.com/file/d/1SVeXg7kYU9MYScDVhUO5cto9eYL8WtT4/view?usp=sharing" },
+				// { label: "CS17 ReasonML Teachpack", link: "https://drive.google.com/file/d/1v31kqpdPbmUX15kUSTwcp2hm0hYv_a35/view?usp=sharing" }, 
 			]
 	},
 	{
