@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.94282d8c.chunk.css",
-    "main.js": "/static/js/main.099be5f9.chunk.js",
-    "main.js.map": "/static/js/main.099be5f9.chunk.js.map",
+    "main.js": "/static/js/main.1f6ae0e3.chunk.js",
+    "main.js.map": "/static/js/main.1f6ae0e3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.14f9e832.js",
     "runtime-main.js.map": "/static/js/runtime-main.14f9e832.js.map",
     "static/js/2.6a24dae4.chunk.js": "/static/js/2.6a24dae4.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/CS17_Logo_2.0ddea8f8.svg": "/static/media/CS17_Logo_2.0ddea8f8.svg",
     "static/media/CS17_Logo_3.376b4044.svg": "/static/media/CS17_Logo_3.376b4044.svg",
     "static/media/Catherine.511ec4b4.JPG": "/static/media/Catherine.511ec4b4.JPG",
-    "static/media/Effy.4122e1d4.JPG": "/static/media/Effy.4122e1d4.JPG",
+    "static/media/Effy.ece80f02.JPG": "/static/media/Effy.ece80f02.JPG",
     "static/media/Ethan.55e6d98b.JPG": "/static/media/Ethan.55e6d98b.JPG",
     "static/media/Huda.ebfc02b9.JPG": "/static/media/Huda.ebfc02b9.JPG",
     "static/media/Jason.5597fc60.JPG": "/static/media/Jason.5597fc60.JPG",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.14f9e832.js",
     "static/js/2.6a24dae4.chunk.js",
     "static/css/main.94282d8c.chunk.css",
-    "static/js/main.099be5f9.chunk.js"
+    "static/js/main.1f6ae0e3.chunk.js"
   ]
 }
