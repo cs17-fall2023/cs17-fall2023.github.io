@@ -67,9 +67,9 @@ const staff = [
 		bio: "Hi! I’m a sophomore studying CS and Urban Studies. I love making coffee, murder mysteries and cats. I also love to sew and go on walks in my free time!"
 	},
 	{
-		name: "Patrick", login: "-", image: staffImages.Patrick,
-		hometown: "-", birthday: "-", pronouns: "-",
-		bio: "-"
+		name: "Patrick", login: "pmccann2", image: staffImages.Patrick,
+		hometown: "Philadelphia, PA", birthday: "September 14", pronouns: "he/him/his",
+		bio: "Hi everyone! I'm a senior studying geochemistry and CS. I like running, ducks, and reality TV. Can't wait to meet you all!"
 	},
 	{
 		name: "Sean", login: "syu66", image: staffImages.Sean,
