@@ -121,6 +121,8 @@ class HomePage extends React.Component {
 								</a> before Friday, September 8th 6pm EST!
 							<br/>
 							- Labs start this weekend! Your lab assignments will be released on Saturday, September 9th.
+							<br/>
+							- Homework 1: Warmup is due September 13th, 11pm EST! 
 							</p>
 						</div>
 					</div>
