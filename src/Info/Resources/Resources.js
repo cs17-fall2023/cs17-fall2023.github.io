@@ -1,7 +1,7 @@
 import { FaQuestion, FaSchool, FaShoePrints, FaComment, FaFileAlt, FaCode } from 'react-icons/fa';
 
 export const ImportantLinks = [
-	// { label: "Syllabus", icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1bmMQqKr51Oi9FnGxf6XuV2DYz8ajxbaT/view?usp=sharing", description: "Class info, grading, and late policy" },
+
 	{ label: "Syllabus", icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1XrA845Fup7yO4-882jUeWfi4f5kS4CBe/view?usp=sharing", description: "Class info, grading, and late policy" },
 	{ label: "Gradescope", icon: <FaSchool />, link: "https://www.gradescope.com/", description: "Submit homework, projects, and exams" },
 	{ label: "EdStem", icon: <FaQuestion />, link: "https://edstem.org/us/join/cSUtBj", description: "Ask clarification, debugging, and conceptual questions" },

@@ -2,13 +2,13 @@ import { FaFileAlt, FaYoutube, FaFilePowerpoint } from 'react-icons/fa';
 
 const classes = [
 	{
-		number: 1, title: "Welcome", outDate: "Sept. 6", active: false,
+		/*number: 1,*/ title: "All Class Recordings", outDate: "Fall 2023", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mSC4T3zlkwyU3nYbdt3mZbXHC0RBIugT/view?usp=sharing", label: "Notes" },
-			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2727248-aff7-4e78-8764-af090024f5b4", label: "Recording" },
-			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1nGRI2vRghzUIwadPTml9mljqdFwiMYWP/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
+			// { icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mSC4T3zlkwyU3nYbdt3mZbXHC0RBIugT/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%223db23cb2-c393-4e7c-8d62-b06e00d79eef%22", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1nGRI2vRghzUIwadPTml9mljqdFwiMYWP/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
 		],
-		tags: ["Racket"]
+		// tags: ["Racket"]
 	},
 	// {
 	// 	number: 2, title: "Arithmetic, Types, and Keywords", outDate: "Sept. 9", active: false,

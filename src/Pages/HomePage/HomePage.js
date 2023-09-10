@@ -93,11 +93,11 @@ class HomePage extends React.Component {
 								Welcome!! CS17 (CSCI 0170) is an intro computer
 								science class at Brown University — emphasis on intro!!
 								We want to make a welcoming environment
-								for everyone who wants to learn CS! {/* — fill out our {" "}
-								<a href="https://docs.google.com/forms/d/e/1FAIpQLSc90q808orP2UEUYiZSWGvaqc2lLEe_-UdPoGmPa2Cj5vNSUg/viewform" target="_blank" rel="noopener noreferrer">
+								for everyone who wants to learn CS!  — fill out our {" "}
+								<a href="https://docs.google.com/forms/d/1gm02ekb4bvOM3Jtw6BMRa_2gdozbJiZpNKuuWKvNPOU/viewform" target="_blank" rel="noopener noreferrer">
 									anonymous feedback form
 								</a>
-		{" "} to let us know if we can do anything better!*/}
+		{" "} to let us know if we can do anything better!
 							</p>
 							<p>
 								If you have any questions on content, post on Ed,
@@ -116,7 +116,13 @@ class HomePage extends React.Component {
 							<div><FaExclamation /></div>
 							<p><mark>Announcements: </mark>
 							<br/>
-							- The first day of class is September 6th, see you there!
+								- Fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5Z-RenFFdVuKq58EAzhfXAKpZyGVWYAcfSi8ht7IBffRK1A/viewform" target="_blank" rel="noopener noreferrer">
+								CS17 Setup Form
+								</a> before Friday, September 8th 6pm EST!
+							<br/>
+							- Labs start this weekend! Your lab assignments will be released on Saturday, September 9th.
+							<br/>
+							- Homework 1: Warmup is due September 13th, 11pm EST! 
 							</p>
 						</div>
 					</div>
