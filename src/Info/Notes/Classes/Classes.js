@@ -2,7 +2,7 @@ import { FaFileAlt, FaYoutube, FaFilePowerpoint } from 'react-icons/fa';
 
 const classes = [
 	{
-		/*number: 1,*/ title: "All Class Recordings", outDate: "Fall 2023", active: true,
+		number: 0, title: "All Class Recordings", outDate: "Fall 2023", active: true,
 		links: [
 			// { icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mSC4T3zlkwyU3nYbdt3mZbXHC0RBIugT/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%223db23cb2-c393-4e7c-8d62-b06e00d79eef%22", label: "Recording" },
@@ -10,24 +10,33 @@ const classes = [
 		],
 		// tags: ["Racket"]
 	},
-	// {
-	// 	number: 2, title: "Arithmetic, Types, and Keywords", outDate: "Sept. 9", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1C1AbPgZA27czZ1hzTyGYag132upG78jv/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c91723e-66e8-48f3-9631-af090024f5f7", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1_XF48MpBTqlu89RkIxbvlMlEUrsQCJdo/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Definitions", "Evaluation"]
-	// },
-	// {
-	// 	number: 3, title: "Racket, Processing, and BNF", outDate: "Sept. 12", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1kZfSjA1t5m_zisufCXNbbNQH0ko6jboW/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c04966b-e6b0-410d-8b7d-af090024f60e", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1pIaR4zicAsXQUjmylCU5xdlUYhkc-Ruv/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Evaluation"]
-	// },
+	{
+		number: 1, title: "Introduction", outDate: "Sept. 6", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mSC4T3zlkwyU3nYbdt3mZbXHC0RBIugT/view?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%223db23cb2-c393-4e7c-8d62-b06e00d79eef%22", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16aWjuG1v0QelG6LjzYpBITm54XodkCsH/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket"]
+	},
+	{
+		number: 2, title: "Arithmetic, Types, and Keywords", outDate: "Sept. 8", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1C1AbPgZA27czZ1hzTyGYag132upG78jv/view?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c91723e-66e8-48f3-9631-af090024f5f7", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/18bFNDbVzt-O-9mqTPnh8AevVM5q7AW0s/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Definitions", "Evaluation"]
+	},
+	{
+		number: 3, title: "Syntax Overview", outDate: "Sept. 11", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1hYpSU33UhRq3ymmLDZ5I8e2WlKnQ3G1-/view?usp=sharing", label: "Code" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c04966b-e6b0-410d-8b7d-af090024f60e", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Tob6exaEtvnXhyVsHq7btD03AtX237gw/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Definitions", "Expressions"]
+	},
 	// {
 	// 	number: 4, title: "Syntax and Semantics", outDate: "Sept. 14", active: false,
 	// 	links: [
