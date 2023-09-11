@@ -115,14 +115,9 @@ class HomePage extends React.Component {
 						<div>
 							<div><FaExclamation /></div>
 							<p><mark>Announcements: </mark>
+
 							<br/>
-								- Fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5Z-RenFFdVuKq58EAzhfXAKpZyGVWYAcfSi8ht7IBffRK1A/viewform" target="_blank" rel="noopener noreferrer">
-								CS17 Setup Form
-								</a> before Friday, September 8th 6pm EST!
-							<br/>
-							- Labs start this weekend! Your lab assignments will be released on Saturday, September 9th.
-							<br/>
-							- Homework 1: Warmup is due September 13th, 11pm EST! 
+							- Homework 1: Warmup is due Wednesday, September 13th, 11pm EST! 
 							</p>
 						</div>
 					</div>
