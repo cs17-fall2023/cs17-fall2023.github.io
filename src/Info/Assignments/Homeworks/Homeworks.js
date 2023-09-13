@@ -9,12 +9,12 @@ const homeworks = [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/13vOoImg_P-vq04KKfFqF_3M9hehOz0x9/view?usp=sharing", label: "Handout" },
 		]
 	},
-	// {
-	// 	number: 2, title: "Procedures", dueDate: "Sept. 21, 11 p.m. EDT", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1AA1iFkPo3HNv75FhQehjnrULpMRUgnTO/view?usp=sharing", label: "Handout" },
-	// 	]
-	// },
+	{
+		number: 2, title: "Procedures", dueDate: "Sept. 20, 11 p.m. EDT", active: false,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pBCpTrQ8xJLtHygubBADJiUf1kPA8W3X/view?usp=sharing", label: "Handout" },
+		]
+	},
 	// {
 	// 	number: 3, title: "Recursion", dueDate: "Sept. 29, 11 p.m. EDT", active: false,
 	// 	links: [
