@@ -37,15 +37,15 @@ const classes = [
 		],
 		tags: ["Definitions", "Expressions"]
 	},
-	// {
-	// 	number: 4, title: "Syntax and Semantics", outDate: "Sept. 14", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1zwgE0Rn3l08ydOkRYN7BK9q887ftZtcf/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c57237a-6738-41ab-9644-af1000ecc248", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1w6SOA51U5SDTXK2RQ39LJALzJZpc3Hkk/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Procedures", "Evaluation"]
-	// },
+	{
+		number: 4, title: "Syntax and Semantics", outDate: "Sept. 13", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1O24CUXHSmVKDcaWl9MOSeQSe1pTfjusQ/view?usp=sharing", label: "Code" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c57237a-6738-41ab-9644-af1000ecc248", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1IbX-AWtthle0onAFCBJe0g7gR7hcvsbR/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Procedures", "Evaluation"]
+	},
 	// {
 	// 	number: 5, title: "Definitions and Design Recipe", outDate: "Sept. 16", active: false,
 	// 	links: [
