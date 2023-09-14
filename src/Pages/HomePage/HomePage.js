@@ -117,7 +117,7 @@ class HomePage extends React.Component {
 							<p><mark>Announcements: </mark>
 
 							<br/>
-							- Homework 1: Warmup is due Wednesday, September 13th, 11pm EST! 
+							- Homework 2: Warmup is due Wednesday, September 20th, 11pm EST! 
 							</p>
 						</div>
 					</div>
