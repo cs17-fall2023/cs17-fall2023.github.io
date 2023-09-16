@@ -8,14 +8,14 @@ const labs = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/14cHRHSk8mHcJ5svwOO-IFBVyAy96o0ga7pMQ0h-Htfs/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 2, title: "Racket Introduction", dueDate: "Sept. 18-20", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1AZK1KeE4O2TxavLQHH0wQ_Z25UlzQweQ/view?usp=sharing", label: "Handout" },
-	// 		// { icon: <FaCode />, link: "https://drive.google.com/file/d/1lOdbEm91YYwxRugpdOG2rJKqC2GdFZpE/view?usp=sharing", label: "Source Code" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1qQ90adoC2CMQZZjQtbD7Ct0E_vHqSGQQ9CGHLSTGmyM/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 2, title: "Racket Introduction", dueDate: "Sept. 17-19", active: false,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1K_IjVi6iqAk7tjXAdcc2-jmez43TDhqG/view?usp=sharing", label: "Handout" },
+		    { icon: <FaCode />, link: "https://drive.google.com/drive/folders/1VoSUELzBbzk0IM0FADNLuaW_bVCgVBGm?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1ysUHKDtrCXctbvG4s9aFWvU-M2WsSU1Gz1d1IfD82m8/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 3, title: "Recursion", dueDate: "Sept. 25-27", active: false,
 	// 	links: [
