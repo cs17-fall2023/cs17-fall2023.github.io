@@ -55,15 +55,15 @@ const classes = [
 		],
 		tags: ["Design Recipe", "Racket", "Evaluation"]
 	},
-	// {
-	// 	number: 6, title: "Lists and List Procedures", outDate: "Sept. 19", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1oU38mwxsZQu6Av2CFvklYHcEf6hBqPum/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d68a86f6-8c04-40dd-898d-af1000ecc2c4", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kZcyas7RZmD2RmVOzAvUJDs5IV1cbUdG/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Design Recipe", "Racket", "Evaluation", "Lists"]
-	// },
+	{
+		number: 6, title: "Lists and List Procedures", outDate: "Sept. 19", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://docs.google.com/document/d/1z1V_BGoXBPl_B8Iy-sbCr19ceon1K8HWGwfVHm5cbkM/edit?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d68a86f6-8c04-40dd-898d-af1000ecc2c4", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1KRckCd3QvgovEf1zeyA9tbeDMNtPl526/edit?usp=sharing&ouid=107485465646607954788&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Design Recipe", "Racket", "Evaluation", "Lists"]
+	},
 	// {
 	// 	number: 7, title: "List Recursion", outDate: "Sept. 21", active: false,
 	// 	links: [
