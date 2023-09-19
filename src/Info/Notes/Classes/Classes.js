@@ -56,7 +56,7 @@ const classes = [
 		tags: ["Design Recipe", "Racket", "Evaluation"]
 	},
 	{
-		number: 6, title: "Lists and List Procedures", outDate: "Sept. 19", active: true,
+		number: 6, title: "Lists and List Procedures", outDate: "Sept. 18", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "https://docs.google.com/document/d/1z1V_BGoXBPl_B8Iy-sbCr19ceon1K8HWGwfVHm5cbkM/edit?usp=sharing", label: "Notes" },
 			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d68a86f6-8c04-40dd-898d-af1000ecc2c4", label: "Recording" },
