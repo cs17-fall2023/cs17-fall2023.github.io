@@ -8,12 +8,12 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1cYJJX6NqTphPFpZgiaVVY3Nl0T8bCSmaTLSMG-ziXNE/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 2, title: "Expressions, Types, and Procedures", outDate: "Sept. 19-20", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1WoyKjD8VFrURMQMkJ0RyqjaAsLKX7IDK/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 2, title: "Expressions, Types, and Procedures", outDate: "Sept. 18", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1hbupMOAH50w9o96Qi_q8fcsgShbM8NuY2z1Sur0RkGw/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 3, title: "Boolean Logic, Lists, and Recursion", outDate: "Sept. 26-27", active: false,
 	// 	links: [
