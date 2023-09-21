@@ -120,6 +120,8 @@ class HomePage extends React.Component {
 							- Fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScjESjWINd6WmAMnhqSop9J7LV26kFVIti-KDxqPFkB7qL3gg/viewform" target="_blank" rel="noopener noreferrer">
 									Bignum Signup Form
 								</a> by Friday, September 22nd at 7pm EDT!
+							<br/>
+							- Homework 3 is due September 27, 11pm EDT! 
 							</p>
 						</div>
 					</div>
