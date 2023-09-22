@@ -16,13 +16,13 @@ const labs = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1ysUHKDtrCXctbvG4s9aFWvU-M2WsSU1Gz1d1IfD82m8/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 3, title: "Recursion", dueDate: "Sept. 25-27", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mA3N_i4VrsNg9F7EQcp-QmUO4KnewBX2/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16M8xl1tquvMvq6J0CXGdkCWdbGJhy45T0gU_OrL2aSA/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 3, title: "Recursion", dueDate: "Sept. 24-26", active: false,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/114FWstIK221L-bl4n6Mp-QWWhAKySEkE/view?usp=sharing", label: "Handout" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/19YyW03UQlhUvnkT1173aw-8LvtmM8dkGJoiwMfnpx7g/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 4, title: "Natural Number Recursion", dueDate: "Oct. 2-4", active: false,
 	// 	links: [
