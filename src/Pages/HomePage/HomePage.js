@@ -117,7 +117,11 @@ class HomePage extends React.Component {
 							<p><mark>Announcements: </mark>
 
 							<br/>
-							- Homework 2: Warmup is due Wednesday, September 20th, 11pm EST! 
+							- Fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScjESjWINd6WmAMnhqSop9J7LV26kFVIti-KDxqPFkB7qL3gg/viewform" target="_blank" rel="noopener noreferrer">
+									Bignum Signup Form
+								</a> by Friday, September 22nd at 7pm EDT!
+							<br/>
+							- Homework 3 is due September 27, 11pm EDT! 
 							</p>
 						</div>
 					</div>

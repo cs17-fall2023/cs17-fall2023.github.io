@@ -15,12 +15,12 @@ const homeworks = [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pBCpTrQ8xJLtHygubBADJiUf1kPA8W3X/view?usp=sharing", label: "Handout" },
 		]
 	},
-	// {
-	// 	number: 3, title: "Recursion", dueDate: "Sept. 29, 11 p.m. EDT", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1FzF9mA591mgXVI49YM_WC1ZCxWAS_Oc-/view?usp=sharing", label: "Handout" },
-	// 	]
-	// },
+	{
+		number: 3, title: "Recursion", dueDate: "Sept. 27, 11 p.m. EDT", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1BWWwzy9WTpx8V3-qegUyNry9wHa1dD5Z/view?usp=sharing", label: "Handout" },
+		]
+	},
 	// {
 	// 	number: 4, title: "More Recursion & Higher Order Procedures", dueDate: "Oct. 6, 11 p.m. EDT", active: false,
 	// 	links: [
