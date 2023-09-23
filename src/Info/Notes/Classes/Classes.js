@@ -73,15 +73,15 @@ const classes = [
 		],
 		tags: ["Lists", "Racket", "Recursion"]
 	},
-	// {
-	// 	number: 8, title: "Recursion and Operation Counting", outDate: "Sept. 23", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1IeJ6AD3p1HfFw50HdnsYVzxs7z9ojGSM/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a73c6e60-0fb7-48b8-a679-af1000ecc305", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1INaMWj1ApHfS9ZuA6VVHdMtsBWiR7vaj/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Lists", "Recursion", "Racket", "Analysis"]
-	// },
+	{
+		number: 8, title: "More Recursion", outDate: "Sept. 23", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://docs.google.com/document/d/1p4BllXUZ9-0NcgZRIb3eLbknBOvzl3oBLwaeG6DC6fc/edit?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a73c6e60-0fb7-48b8-a679-af1000ecc305", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1lYTL9cE6FuvaPRzEljip7RFs3kMdrq3Q/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Lists", "Recursion", "Racket", "Analysis"]
+	},
 	// {
 	// 	number: 9, title: "Intro to Analysis", outDate: "Sept. 26", active: false,
 	// 	links: [
