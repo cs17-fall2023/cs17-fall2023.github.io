@@ -2,13 +2,13 @@ import { FaFileAlt, FaCode, FaFilePowerpoint, FaYoutube, } from 'react-icons/fa'
 
 const projects = [
 	{
-		number: 1, title: "Bignum", dueDate: "", active: false,
+		number: 1, title: "Bignum", dueDate: "Oct. 6, 11 p.m. EST", active: true,
 		notes: "",
 		links: [
-			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1xbIsQ9hgsxafSpSU2FCpTm9vspvPiyOI/view?usp=sharing", label: "Handout" },
-			{ icon: <FaCode />, link: "https://drive.google.com/file/d/1mDnpaWWCTYRqLQgHjGLR59_ekBgZ0U5i/view?usp=sharing", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1bVJCOUqoPwDbjJMAXPH4aIAEIcDMVEkCLf53lDgVOT4/edit?usp=sharing", label: "Gearup Slides" },
-			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/1q9m_6CxkCNdULeTjsDO9MocmGJhm059w/view?usp=sharing", label: "Gearup Recording" }
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1lJDyP-xxnyXPcaGzSLgaBkLTTN5uAaRJ/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/file/d/1LYroBj4gPKLeJ8Xi89Y67b8mFhvUHlXh/view?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/19E_SzC0B9_COAYOnpo7KVSk9sQwOq-TUXU3O5QSZXPE/edit?usp=sharing", label: "Gearup Slides" },
+			// { icon: <FaYoutube />, link: "https://drive.google.com/file/d/1q9m_6CxkCNdULeTjsDO9MocmGJhm059w/view?usp=sharing", label: "Gearup Recording" }
 		]
 	},
 	// {

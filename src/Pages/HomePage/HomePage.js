@@ -115,13 +115,10 @@ class HomePage extends React.Component {
 						<div>
 							<div><FaExclamation /></div>
 							<p><mark>Announcements: </mark>
-
 							<br/>
-							- Fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScjESjWINd6WmAMnhqSop9J7LV26kFVIti-KDxqPFkB7qL3gg/viewform" target="_blank" rel="noopener noreferrer">
-									Bignum Signup Form
-								</a> by Friday, September 22nd at 7pm EDT!
-							<br/>
-							- Homework 3 is due September 27, 11pm EDT! 
+								- Homework 3 is due September 27, 11pm EDT!
+								<br />
+								- Bignum has been released! Sign up for a design check before 9am, September 27.
 							</p>
 						</div>
 					</div>
