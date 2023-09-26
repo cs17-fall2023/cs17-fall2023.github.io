@@ -82,15 +82,15 @@ const classes = [
 		],
 		tags: ["Lists", "Recursion", "Racket", "Analysis"]
 	},
-	// {
-	// 	number: 9, title: "Intro to Analysis", outDate: "Sept. 26", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1j3-MBz_icvzY1AbnDBotrFS0aTX_EBRC/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fdfc622f-8733-406d-bc1f-af1000ecc325", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1a91a7hAYRdEWlPrgM9phjwd-PlqTd3sE/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" }
-	// 	],
-	// 	tags: ["Recursion", "Racket", "Analysis"]
-	// },
+	{
+		number: 9, title: "Even More Recursion", outDate: "Sept. 25", active: true,
+		links: [
+			//{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1j3-MBz_icvzY1AbnDBotrFS0aTX_EBRC/view?usp=sharing", label: "Notes" },
+			//{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fdfc622f-8733-406d-bc1f-af1000ecc325", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1UXnLaYdbh5LoQaFUIczCJ3lFsTbeuicu/edit?usp=sharing&ouid=107485465646607954788&rtpof=true&sd=true", label: "Slides" }
+		],
+		tags: ["Recursion", "Racket"] //, "Analysis"]
+	},
 	// {
 	// 	number: 10, title: "Two Argument Recursion and Analysis", outDate: "Sept. 28", active: false,
 	// 	links: [
