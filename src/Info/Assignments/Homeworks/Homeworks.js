@@ -21,12 +21,12 @@ const homeworks = [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1BWWwzy9WTpx8V3-qegUyNry9wHa1dD5Z/view?usp=sharing", label: "Handout" },
 		]
 	},
-	// {
-	// 	number: 4, title: "More Recursion & Higher Order Procedures", dueDate: "Oct. 6, 11 p.m. EDT", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1X2wqtkOCztQkexw1Piepe1A_jtw60P_U/view?usp=sharing", label: "Handout" },
-	// 	]
-	// },
+	{
+		number: 4, title: "More Recursion & Higher Order Procedures", dueDate: "Oct. 4, 11 p.m. EDT", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1IDBfY5b0rOfC49B0rwDS3Y4rDIZjfngU/view?usp=sharing", label: "Handout" },
+		]
+	},
 	// {
 	// 	number: 5, title: "Higher Order Procedures and Subsets", dueDate: "Oct. 14, 11 p.m. EDT", active: false,
 	// 	links: [
