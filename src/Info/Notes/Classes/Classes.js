@@ -91,15 +91,15 @@ const classes = [
 		],
 		tags: ["Recursion", "Racket"] //, "Analysis"]
 	},
-	// {
-	// 	number: 10, title: "Two Argument Recursion and Analysis", outDate: "Sept. 28", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1vga9oBXeRDrmGT5y8HxAFA9gz_lhVvYj/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23e80812-1115-4cfc-b802-af1000ecc34b", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/13NscPigBi-m-2WoyEc0P4lM5ijAtCY8C/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Recursion", "Analysis", "Racket"]
-	// },
+	{
+		number: 10, title: "Two Argument Recursion and Analysis", outDate: "Sept. 27", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://docs.google.com/document/d/1360yA56UYUbaJJiRb-9aW88Usyqz6XRlPiCWJQp455U/edit?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23e80812-1115-4cfc-b802-af1000ecc34b", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/13NscPigBi-m-2WoyEc0P4lM5ijAtCY8C/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
+		],
+		tags: ["Recursion", "Analysis", "Racket"]
+	},
 	// {
 	// 	number: 11, title: "Reverse and Higher Order Procedures", outDate: "Sept. 30", active: false,
 	// 	links: [
