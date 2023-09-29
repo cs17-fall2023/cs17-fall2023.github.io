@@ -100,15 +100,15 @@ const classes = [
 		],
 		tags: ["Recursion", "Analysis", "Racket"]
 	},
-	// {
-	// 	number: 11, title: "Reverse and Higher Order Procedures", outDate: "Sept. 30", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1eXWTgJfVPV3nX-iTqlxLwRDLDYZuvqDd/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09df814d-4c63-4afd-b484-af1000ecc384", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/155uS5GqldTFgcYOdzmTJ2-t5Nd964we5/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Recursion", "HOPs", "Racket"]
-	// },
+	{
+		number: 11, title: "Reverse and More Analysis", outDate: "Sept. 29", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://docs.google.com/document/d/1rmrd3IoVwaFlnsY37MAAEjdk1jIq_l59S9YLI5n36JE/edit?usp=sharing", label: "Notes" },
+		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09df814d-4c63-4afd-b484-af1000ecc384", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1C5S7mBQ848G3dlcns4bGsOhPVaNnBFBU/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Recursion", "Analysis", "Racket"]
+	},
 	// {
 	// 	number: 12, title: "Analysis: Plug-n-Chug", outDate: "Oct. 4", active: false,
 	// 	links: [
