@@ -24,7 +24,7 @@ const labs = [
 		]
 	},
 	{
-		number: 4, title: "Natural Number Recursion", dueDate: "Oct. 1-3", active: false,
+		number: 4, title: "Natural Number Recursion", dueDate: "Oct. 1-3", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mCm52Bi2OoQiXg3IlPIdD8EGhp0ywXty/view?usp=sharing", label: "Handout" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1O7QF18zcczuU1maGRvDcuZpLqyy7OQ6fsr29VK9Bawc/edit?usp=sharing", label: "Slides" },
