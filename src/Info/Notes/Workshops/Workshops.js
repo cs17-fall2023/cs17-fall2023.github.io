@@ -20,12 +20,12 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1IIUhr5JZO52w9w9BXij6y7AfPdTIMkn87dpnZkC3rks/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 4, title: "Recurrence Relations", outDate: "Oct. 3-4", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1XMx0dC2bmgMBqGV5sjnnMN8FwkFR5Bd88OB-NF5acCo/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 4, title: "Recurrence Relations", outDate: "Oct. 2-3", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1NuptGIMolyF4v5uh3vRZl_D6cD3N8H98K3962pcI3GU/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 5, title: "Analysis, Lambda Expressions, and HOPs", outDate: "Oct. 11", active: false,
 	// 	links: [
