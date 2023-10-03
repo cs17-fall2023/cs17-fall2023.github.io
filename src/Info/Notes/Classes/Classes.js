@@ -109,15 +109,15 @@ const classes = [
 		],
 		tags: ["Recursion", "Analysis", "Racket"]
 	},
-	// {
-	// 	number: 12, title: "Analysis: Plug-n-Chug", outDate: "Oct. 4", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1igJyZNmlxVRlJpxoFfbISNCJl6tp8ZDg/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de96ae25-0ed2-429c-80a5-af1000ecc3ab", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1iQ-iVKrGzc5-TAze-t0ge1akwyVPVLsB/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Recursion", "Analysis"]
-	// },
+	{
+		number: 12, title: "Map, Lambda, and Analysis", outDate: "Oct. 2", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://docs.google.com/document/d/10Amy39NbbiuRrpebdx5BmaIXsFMwhZdfKPf0EfGT2Ig/edit?usp=sharing", label: "Notes" },
+			//{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de96ae25-0ed2-429c-80a5-af1000ecc3ab", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1qltbnA9KwwSSJZg-UymtvC2M8XieuKB3/edit?usp=sharing&ouid=107485465646607954788&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Recursion", "HOPs", "Lambda", "Analysis"]
+	},
 	// {
 	// 	number: 13, title: "More Analysis and Intro to Lambda", outDate: "Oct. 5", active: false,
 	// 	links: [
