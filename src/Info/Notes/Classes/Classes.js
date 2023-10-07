@@ -128,13 +128,13 @@ const classes = [
 		tags: ["Racket", "Analysis"]
 	},
 	{
-		number: 14, title: "Runtime and More Recursion", outDate: "Oct. 6", active: true,
+		number: 14, title: "Runtime, Stars and Stripes", outDate: "Oct. 6", active: true,
 		links: [
 		//	{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pXgRzrTmcQLtPc_Aqrw7PeGLFqNQcmMU/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/13cgdSozCStZCC87f6EnCdsc9YLjjyzRl/view?usp=sharing", label: "Addendum" },
 		//	{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16jnRyHlH0L6EMz9k_XEZDXGTvBSKbCSV/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
 		],
-		tags: ["Racket", "Analysis", "Recursion"]
+		tags: ["Racket", "Analysis"]
 	},
 	// {
 	// 	number: 15, title: "Let and Combinatorics", outDate: "Oct. 12", active: false,
