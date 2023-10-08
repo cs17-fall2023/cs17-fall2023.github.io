@@ -31,7 +31,7 @@ const labs = [
 		]
 	},
 	{
-		number: 5, title: "Search", dueDate: "Oct. 8-10", active: false,
+		number: 5, title: "Search", dueDate: "Oct. 8-10", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1uACfzqYrkGmDkCD2WDX7h6ktcEH3zZqj/view?usp=sharing", label: "Handout" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1xdB9HVbdHfiuny3EyD1KlUu7nHK132cIlVwWSBS7gzw/edit?usp=sharing", label: "Slides" },
