@@ -30,13 +30,13 @@ const labs = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1O7QF18zcczuU1maGRvDcuZpLqyy7OQ6fsr29VK9Bawc/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 5, title: "Search", dueDate: "Oct. 9-11", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/10hff9rQVvD2AdnxbWSJJtHaa5AV_YrrB/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1ojVxSXQCCbGR6QT8TnBbV4LXFOVnXbK0Lr4rucSKkEk/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 5, title: "Search", dueDate: "Oct. 8-10", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1uACfzqYrkGmDkCD2WDX7h6ktcEH3zZqj/view?usp=sharing", label: "Handout" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1xdB9HVbdHfiuny3EyD1KlUu7nHK132cIlVwWSBS7gzw/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 6, title: "Reason", dueDate: "Oct. 16-18", active: false,
 	// 	links: [

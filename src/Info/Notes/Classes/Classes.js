@@ -127,15 +127,15 @@ const classes = [
 		],
 		tags: ["Racket", "Analysis"]
 	},
-	// {
-	// 	number: 14, title: "Applying Lambda", outDate: "Oct. 7", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pXgRzrTmcQLtPc_Aqrw7PeGLFqNQcmMU/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6677649-d6fc-49e1-b46d-af1000ecc401", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16jnRyHlH0L6EMz9k_XEZDXGTvBSKbCSV/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Lambda"]
-	// },
+	{
+		number: 14, title: "Runtime, Stars and Stripes", outDate: "Oct. 6", active: true,
+		links: [
+		//	{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pXgRzrTmcQLtPc_Aqrw7PeGLFqNQcmMU/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/13cgdSozCStZCC87f6EnCdsc9YLjjyzRl/view?usp=sharing", label: "Addendum" },
+		//	{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16jnRyHlH0L6EMz9k_XEZDXGTvBSKbCSV/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
+		],
+		tags: ["Racket", "Analysis"]
+	},
 	// {
 	// 	number: 15, title: "Let and Combinatorics", outDate: "Oct. 12", active: false,
 	// 	links: [

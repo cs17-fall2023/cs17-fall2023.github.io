@@ -27,13 +27,13 @@ const homeworks = [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1IDBfY5b0rOfC49B0rwDS3Y4rDIZjfngU/view?usp=sharing", label: "Handout" },
 		]
 	},
-	// {
-	// 	number: 5, title: "Higher Order Procedures and Subsets", dueDate: "Oct. 14, 11 p.m. EDT", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1LgOUqkBGqD5hnJ5-DfQypHDUpkt1HW7l/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/file/d/10c4AOO0Jd-5NotYKSQSKi_YwqAej1duP/view?usp=sharing", label: "Source Code" },
-	// 	]
-	// },
+	{
+		number: 5, title: "Higher Order Procedures and Subsets", dueDate: "Oct. 11, 11 p.m. EDT", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1oGt4ElhQ6GFXmkAlFlXYbR7NbaLsKIK3/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/file/d/19F3MakrrLCwDlemxbwfgSaNWdR84H8NY/view?usp=sharing", label: "Source Code" },
+		]
+	},
 	// {
 	// 	number: 6, title: "K-Subsets and Matrices", dueDate: "Oct. 20, 11 p.m. EDT", active: false,
 	// 	links: [
