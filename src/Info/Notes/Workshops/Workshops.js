@@ -26,12 +26,12 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1NuptGIMolyF4v5uh3vRZl_D6cD3N8H98K3962pcI3GU/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 5, title: "Analysis, Lambda Expressions, and HOPs", outDate: "Oct. 11", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1o8vaFoPU2H-vVBrCn4AIeaDJYNl5NqL_YonrnsPiHLY/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 5, title: "Analysis, Lambda Expressions, and HOPs", outDate: "Oct. 9-10", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1cRmbsBky0GAAKVIc0Vr0MUPclCp2Z2CjP8Q1gM2hZ98/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 6, title: "Let Expressions and Intro to ReasonML", outDate: "Oct. 17-18", active: false,
 	// 	links: [
