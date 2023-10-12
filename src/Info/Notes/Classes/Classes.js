@@ -136,15 +136,15 @@ const classes = [
 		],
 		tags: ["Racket", "Analysis"]
 	},
-	// {
-	// 	number: 15, title: "Let and Combinatorics", outDate: "Oct. 12", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a09d5fbe-5c9a-4160-830f-af1000ecc452", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/15zK1E4NLeGUTOYrGtXh75NbL0UBX4SJf/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket"]
-	// },
+	{
+		number: 15, title: "Let and Combinatorics", outDate: "Oct. 11", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a09d5fbe-5c9a-4160-830f-af1000ecc452", label: "Recording" },
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1XA0FwwkBcI1-696begHGYHBaecMiEe5_/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket"]
+	},
 	// {
 	// 	number: 16, title: "Let and ReasonML", outDate: "Oct. 14", active: false,
 	// 	links: [
