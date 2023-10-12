@@ -34,13 +34,13 @@ const homeworks = [
 			{ icon: <FaCode />, link: "https://drive.google.com/file/d/19F3MakrrLCwDlemxbwfgSaNWdR84H8NY/view?usp=sharing", label: "Source Code" },
 		]
 	},
-	// {
-	// 	number: 6, title: "K-Subsets and Matrices", dueDate: "Oct. 20, 11 p.m. EDT", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/19rU2qHeEuet4qRCL3vgL5Dw59H-7zC1-/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1Q1fWe7ad2WkGDutKsiWarnI50_UPNQaI?usp=sharing", label: "Source Code" },
-	// 	]
-	// },
+	{
+		number: 6, title: "K-Subsets and Matrices", dueDate: "Oct. 18, 11 p.m. EDT", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1PCGpQnEslOxU3oWOeTPzPWqpvoonyrLI/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1ssPcNq9ZTTsjN0VjPFrDZHAbPJPtogV4?usp=sharing", label: "Source Code" },
+		]
+	},
 	// {
 	// 	number: 7, title: "Rackettecita", dueDate: "Oct. 26, 11 p.m. EDT", active: false,
 	// 	links: [
