@@ -149,7 +149,8 @@ const classes = [
 		number: 16, title: "Mutual Recursion, Closures, and ReasonML", outDate: "Oct. 13", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1TVartcPx-GmERIj7pD7qQlPb4A_dPmCE/view?usp=sharing", label: "Notes" },
-			{ icon: <FaCode />, link: "https://drive.google.com/file/d/1Ix5dpZOfgEbSCZHoTHsRq3Z4_j8by1IC/view?usp=sharing", label: "Code" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1Ix5dpZOfgEbSCZHoTHsRq3Z4_j8by1IC/view?usp=drive_link", label: "Code" },
+		//	{ icon: <FaCode />, link: "https://drive.google.com/file/d/1Ix5dpZOfgEbSCZHoTHsRq3Z4_j8by1IC/view?usp=sharing", label: "Code" },
 		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08bc98f1-8e45-499d-9c3b-af1000ecc476", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11pAjJqMYE13xv5pMlCs5_nWq62rHecZW/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
 		],
