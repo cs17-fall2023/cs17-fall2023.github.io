@@ -145,15 +145,16 @@ const classes = [
 		],
 		tags: ["Racket"]
 	},
-	// {
-	// 	number: 16, title: "Let and ReasonML", outDate: "Oct. 14", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1AVOn1-6nh2ViPp7KiGrZ2Uof-wp_15lv/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08bc98f1-8e45-499d-9c3b-af1000ecc476", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Lnn40qfDkMzHX0xI74n8bxG43sM1paYi/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Recursion", "ReasonML"]
-	// },
+	{
+		number: 16, title: "Mutual Recursion, Closures, and ReasonML", outDate: "Oct. 13", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1TVartcPx-GmERIj7pD7qQlPb4A_dPmCE/view?usp=sharing", label: "Notes" },
+			{ icon: <FaCode />, link: "https://drive.google.com/file/d/1Ix5dpZOfgEbSCZHoTHsRq3Z4_j8by1IC/view?usp=sharing", label: "Code" },
+		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08bc98f1-8e45-499d-9c3b-af1000ecc476", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11pAjJqMYE13xv5pMlCs5_nWq62rHecZW/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Recursion", "ReasonML"]
+	},
 	// {
 	// 	number: 17, title: "Types, Pattern Matching, and Big-O", outDate: "Oct. 17", active: false,
 	// 	links: [
