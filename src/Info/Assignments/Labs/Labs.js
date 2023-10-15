@@ -37,13 +37,13 @@ const labs = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1xdB9HVbdHfiuny3EyD1KlUu7nHK132cIlVwWSBS7gzw/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 6, title: "Reason", dueDate: "Oct. 16-18", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1eHZ-pbu_3fZrcXSCWChOoxBofsCrYjaR/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1pxbfSGOcdiV5KobV_y4XmHPCwSeYAcCRN7LLe2Pxh8w/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 6, title: "Reason", dueDate: "Oct. 15-17", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1fPDidyT2fPn5tvb4iuYP4S-VH3slOLJ2/view?usp=sharing", label: "Handout" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1h9R56BUvmH2pwJH3j0ocBjALrgxL2IzTdYyZ-aE2eAA/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 7, title: "Debugging", dueDate: "Oct. 23-25", active: false,
 	// 	links: [
