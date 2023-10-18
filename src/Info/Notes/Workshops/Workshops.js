@@ -32,12 +32,12 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1cRmbsBky0GAAKVIc0Vr0MUPclCp2Z2CjP8Q1gM2hZ98/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 6, title: "Let Expressions and Intro to ReasonML", outDate: "Oct. 17-18", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1XX2qYdXm_A2zVIdjEk9YYPQusQYeT_tfuAkkH-UvvZs/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 6, title: "Let Expressions and Intro to ReasonML", outDate: "Oct. 16-17", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1rdhZaYMUvp5YBWeZhF8I_Vb76dgWxDdllep4X8jnKh8/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 7, title: "More ReasonML", outDate: "Oct. 24-25", active: false,
 	// 	links: [
