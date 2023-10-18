@@ -156,24 +156,25 @@ const classes = [
 		],
 		tags: ["Recursion", "ReasonML"]
 	},
-	// {
-	// 	number: 17, title: "Types, Pattern Matching, and Big-O", outDate: "Oct. 17", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8316926-cb1a-4679-b4a4-af1000ecc49c", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1NbrvVcd7Rr3PbkFe2D-bUhzJ-7IwEPK7/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML", "Analysis"]
-	// },
-	// {
-	// 	number: 18, title: "More ReasonML and Closures", outDate: "Oct. 19", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mXmBOQQeksXnsqdO7xtuBMVhxl6Xxg53/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a58c0ac1-44c0-4686-a21d-af1000ecc4c8", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Oc9bx2zp_kQvlZJ-XKszCmKCKjLsOWtR/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML"]
-	// },
+	{
+		number: 17, title: "Recursion Diagrams Redux, ReasonML Part 2", outDate: "Oct. 16", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1L2xC5u-gecAi6LmbXZ4aH2DtVX_rwXZZ/view?usp=sharing", label: "Notes" },
+		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8316926-cb1a-4679-b4a4-af1000ecc49c", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1TvC-kwvX3LoHAnZAEwn1_9iSPJaBXkxw/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML", "Rescursion"]
+	},
+	{
+		number: 18, title: "The End of Racket, Reason continued", outDate: "Oct. 18", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1Mjt3WVSb_eTrg4syxcIFkZQdrl4fdmsZ/view?usp=sharing", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1yp_syuKbIl9_I6VkYJ55ZGqax14J8LQ7/view?usp=sharing", label: "Code" },
+		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a58c0ac1-44c0-4686-a21d-af1000ecc4c8", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1-0xDN5QoVqad28jxqV9BjCtB511Yt5ts/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML"]
+	},
 	// {
 	// 	number: 19, title: "Local Environments and Lambda", outDate: "Oct. 21", active: false,
 	// 	links: [
