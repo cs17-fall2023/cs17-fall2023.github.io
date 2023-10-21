@@ -104,7 +104,7 @@ const classes = [
 		number: 11, title: "Reverse and More Analysis", outDate: "Sept. 29", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "https://docs.google.com/document/d/1rmrd3IoVwaFlnsY37MAAEjdk1jIq_l59S9YLI5n36JE/edit?usp=sharing", label: "Notes" },
-		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09df814d-4c63-4afd-b484-af1000ecc384", label: "Recording" },
+			//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09df814d-4c63-4afd-b484-af1000ecc384", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1C5S7mBQ848G3dlcns4bGsOhPVaNnBFBU/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Recursion", "Analysis", "Racket"]
@@ -130,9 +130,9 @@ const classes = [
 	{
 		number: 14, title: "Runtime, Stars and Stripes", outDate: "Oct. 6", active: true,
 		links: [
-		//	{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pXgRzrTmcQLtPc_Aqrw7PeGLFqNQcmMU/view?usp=sharing", label: "Notes" },
+			//	{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pXgRzrTmcQLtPc_Aqrw7PeGLFqNQcmMU/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/13cgdSozCStZCC87f6EnCdsc9YLjjyzRl/view?usp=sharing", label: "Addendum" },
-		//	{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16jnRyHlH0L6EMz9k_XEZDXGTvBSKbCSV/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
+			//	{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16jnRyHlH0L6EMz9k_XEZDXGTvBSKbCSV/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
 		],
 		tags: ["Racket", "Analysis"]
 	},
@@ -141,7 +141,7 @@ const classes = [
 		links: [
 			// { icon: <FaFileAlt />, link: "", label: "Notes" },
 			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a09d5fbe-5c9a-4160-830f-af1000ecc452", label: "Recording" },
-			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1XA0FwwkBcI1-696begHGYHBaecMiEe5_/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1XA0FwwkBcI1-696begHGYHBaecMiEe5_/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket"]
 	},
@@ -150,8 +150,8 @@ const classes = [
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1TVartcPx-GmERIj7pD7qQlPb4A_dPmCE/view?usp=sharing", label: "Notes" },
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1Ix5dpZOfgEbSCZHoTHsRq3Z4_j8by1IC/view?usp=drive_link", label: "Code" },
-		//	{ icon: <FaCode />, link: "https://drive.google.com/file/d/1Ix5dpZOfgEbSCZHoTHsRq3Z4_j8by1IC/view?usp=sharing", label: "Code" },
-		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08bc98f1-8e45-499d-9c3b-af1000ecc476", label: "Recording" },
+			//	{ icon: <FaCode />, link: "https://drive.google.com/file/d/1Ix5dpZOfgEbSCZHoTHsRq3Z4_j8by1IC/view?usp=sharing", label: "Code" },
+			//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08bc98f1-8e45-499d-9c3b-af1000ecc476", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11pAjJqMYE13xv5pMlCs5_nWq62rHecZW/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Recursion", "ReasonML"]
@@ -160,7 +160,7 @@ const classes = [
 		number: 17, title: "Recursion Diagrams Redux, ReasonML Part 2", outDate: "Oct. 16", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1L2xC5u-gecAi6LmbXZ4aH2DtVX_rwXZZ/view?usp=sharing", label: "Notes" },
-		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8316926-cb1a-4679-b4a4-af1000ecc49c", label: "Recording" },
+			//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8316926-cb1a-4679-b4a4-af1000ecc49c", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1TvC-kwvX3LoHAnZAEwn1_9iSPJaBXkxw/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML", "Rescursion"]
@@ -170,20 +170,21 @@ const classes = [
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1Mjt3WVSb_eTrg4syxcIFkZQdrl4fdmsZ/view?usp=sharing", label: "Notes" },
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1yp_syuKbIl9_I6VkYJ55ZGqax14J8LQ7/view?usp=sharing", label: "Code" },
-		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a58c0ac1-44c0-4686-a21d-af1000ecc4c8", label: "Recording" },
+			//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a58c0ac1-44c0-4686-a21d-af1000ecc4c8", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1-0xDN5QoVqad28jxqV9BjCtB511Yt5ts/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML"]
 	},
-	// {
-	// 	number: 19, title: "Local Environments and Lambda", outDate: "Oct. 21", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1TB7GuMVx1LFEhXO-UuXNDRFSQbeW_T0_/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Home.aspx", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11hjP09TQbyJCnyy7druwutH_L9g47t40/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML"]
-	// },
+	{
+		number: 19, title: "Finishing up ReasonML, BNF, Trees", outDate: "Oct. 20", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1iKhfa851Ruq3oqZCPXzW5WaXtEVxaequ/view?usp=sharing", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1_lXIzKw4TtfUPKxdATIo0-pYvJe9b27b/view?usp=sharing", label: "Code" },
+			//{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Home.aspx", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1ILNgXgh5H9K6CXJHVc55bU46C3xmGFxN/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML", "BNF", "Trees"]
+	},
 	// {
 	// 	number: 20, title: "Big-O & Mutual Recursion", outDate: "Oct. 24", active: false,
 	// 	links: [
