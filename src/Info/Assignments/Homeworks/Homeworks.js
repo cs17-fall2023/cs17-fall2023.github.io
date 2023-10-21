@@ -41,13 +41,13 @@ const homeworks = [
 			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1ssPcNq9ZTTsjN0VjPFrDZHAbPJPtogV4?usp=sharing", label: "Source Code" },
 		]
 	},
-	// {
-	// 	number: 7, title: "Rackettecita", dueDate: "Oct. 26, 11 p.m. EDT", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mjuSaphhhHduXlwjaOhVKpLTXC_wJoQN/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1Q3ob80PJLLTdliMZhSIVbXuXXxeCkiaH?usp=sharing", label: "Source Code" },
-	// 	]
-	// },
+	{
+		number: 7, title: "Rackettecita", dueDate: "Oct. 25, 11 p.m. EDT", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1cjJyeEXKM3RAnt-CFfEhKhtIvYdSPMpr/view?usp=share_link", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1_DXYqKTxz0jphW0L6EWZLF9IAqNuv8g-?usp=share_link", label: "Source Code" },
+		]
+	},
 	// {
 	// 	number: 8, title: "Practice & ADTs", dueDate: "Nov. 2, 11 p.m. EDT", active: false,
 	// 	links: [

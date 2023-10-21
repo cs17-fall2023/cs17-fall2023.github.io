@@ -116,7 +116,7 @@ class HomePage extends React.Component {
 							<div><FaExclamation /></div>
 							<p><mark>Announcements: </mark>
 							<br/>
-								- Homework 6 is due October 18, 11pm EDT!
+								- Homework 7 is due October 25, 11pm EDT!
 								<br />
 							</p>
 						</div>
