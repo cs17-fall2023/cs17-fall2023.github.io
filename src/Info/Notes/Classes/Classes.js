@@ -185,24 +185,24 @@ const classes = [
 		],
 		tags: ["ReasonML", "BNF", "Trees"]
 	},
-	// {
-	// 	number: 20, title: "Big-O & Mutual Recursion", outDate: "Oct. 24", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1aiI-sbAoadugS9nkECiGuJ2cb0j5nvJc/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=163909df-add1-47ff-9ef6-af1000ecc549", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1yuVu7dohaddZnbP0pLKPknIiNj8aLhyc/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis", "Big-O"]
-	// },
-	// {
-	// 	number: 21, title: "ADTs", outDate: "Oct. 26", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a1fe878-02c6-41d2-820f-af1000ecc577", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1J7NnYVBXkqgds9WbDWYfH_Hb_I_pKwHo/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis", "Big-O"]
-	// },
+	{
+		number: 20, title: "Reason Trees", outDate: "Oct. 23", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1bPGUfYT4m1RvdvxlsXLm-RxR1KvjJ1Uw/view?usp=sharing", label: "Code" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=163909df-add1-47ff-9ef6-af1000ecc549", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kR5jDH3gyaKqWQYAUwaAyTLPNDA8AH-i/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML", "Trees"]
+	},
+	{
+		number: 21, title: "ADTs and Rackette", outDate: "Oct. 25", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a1fe878-02c6-41d2-820f-af1000ecc577", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Td8m1K_iHUP9TQDYBY04j1LcGpt1opD_/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ADTs", "Rackette"]
+	},
 	// {
 	// 	number: 22, title: "Rackette Overview", outDate: "Oct. 28", active: false,
 	// 	links: [
