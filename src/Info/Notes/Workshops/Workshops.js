@@ -38,12 +38,12 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1rdhZaYMUvp5YBWeZhF8I_Vb76dgWxDdllep4X8jnKh8/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 7, title: "More ReasonML", outDate: "Oct. 24-25", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1uKYZjId9o4dtuH2aufHR1IKg032Yh00e0i1eXVBXUhU/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 7, title: "More ReasonML", outDate: "Oct. 23-24", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1eFe5-pmAOKZhCk2pQ_DsDA7n5u8oERjDTqLHqaBbgFQ/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 8, title: "Environments, Debugging, and Analysis", outDate: "Oct. 31-Nov. 1", active: false,
 	// 	links: [
