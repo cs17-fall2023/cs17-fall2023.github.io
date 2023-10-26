@@ -12,7 +12,7 @@ const projects = [
 		]
 	},
 	{
-		number: 2, title: "Rackette", dueDate: "Nov. 10, 11 p.m. EST", active: true,
+		number: 2, title: "Rackette", dueDate: "Nov. 10, 11 p.m. EST", active: false,
 		notes: "",
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1y_G-gdPjTdvpjFqmB90LnPyFEf6aHVZC/view?usp=sharing", label: "Handout" },
