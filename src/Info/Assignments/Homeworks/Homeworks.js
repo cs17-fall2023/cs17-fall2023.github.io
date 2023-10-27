@@ -48,13 +48,13 @@ const homeworks = [
 			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1_DXYqKTxz0jphW0L6EWZLF9IAqNuv8g-?usp=share_link", label: "Source Code" },
 		]
 	},
-	// {
-	// 	number: 8, title: "Practice & ADTs", dueDate: "Nov. 2, 11 p.m. EDT", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/11EBo24nCx7aDXO-cwzgtzvBKF8Vxwzdr/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/14sCEWaF4V-YynkpNnMv2N_h8uQytJ76H?usp=sharing", label: "Source Code" },
-	// 	]
-	// },
+	{
+		number: 8, title: "Practice & ADTs", dueDate: "Nov. 1, 11 p.m. EDT", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1L940ZVfTnfLnNPiMm_4cR0MJgFbstACC/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1o_R4Li1E53CuPyA0aE8whYGkGZChMtfI?usp=sharing", label: "Source Code" },
+		]
+	},
 	// {
 	// 	number: 9, title: "Trees, Trees, ...and Lists", dueDate: "Nov. 16, 11 p.m. EST", active: false,
 	// 	links: [
