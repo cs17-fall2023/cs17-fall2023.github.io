@@ -52,14 +52,14 @@ const labs = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Jqg7QDCz1AMMs8qaHqvaT_PL-pfe3oDPVg4wPmNfzgc/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 8, title: "Environments", dueDate: "Oct. 30-Nov. 1", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1dgTybETv9x-LQKQ8sxVWM3aJJOH6ZkXt/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1JHlnigz8lNnbHOcdpRAOgqVm63HB61FO?usp=sharing", label: "Source Code" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1ZT6dq_l59f65TiW25PzwO1NtJcshFyzynGXQUpfbSyc/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 8, title: "Environments", dueDate: "Oct. 29-31", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1Ou37Syhv0B4dxZoD_Q9XYnVExxEN_kDV/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1HlfY3fFLVq7r6fQlUraravQSiW-LjVg8?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1fdNtFGS_lom9ghLI1vOlDrKHLUdWSPjkYvWAMXE7eeo/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 9, title: "ADTs", dueDate: "Nov. 6-8", active: false,
 	// 	links: [
