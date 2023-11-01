@@ -212,24 +212,24 @@ const classes = [
 		],
 		tags: ["ReasonML", "Rackette", "Trees"]
 	},
-	// {
-	// 	number: 23, title: "Rackette and Misc. ReasonML", outDate: "Oct. 31", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1KQxlQtzieMGVD2aPNVLcG_u8o2TkQG7j/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e1a1279c-3ed5-49d3-8c53-af1000ecc5db", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1KB1l4K6dBoyXRahl0Yo400sJPaj0tNBQ/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML", "Rackette", "Evaluation"]
-	// },
-	// {
-	// 	number: 24, title: "Unification and Testing Modules", outDate: "Nov. 2", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0709775-6cf3-4019-9ac6-af1000ecc608", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1amGlYvUdDkqkbJYrhKDutQfAFkBc34Qw/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML"]
-	// },
+	{
+		number: 23, title: "Analysis", outDate: "Oct. 30", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1KQxlQtzieMGVD2aPNVLcG_u8o2TkQG7j/view?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e1a1279c-3ed5-49d3-8c53-af1000ecc5db", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1LRoreGmNaDobkw0mQoI_VGZIWx1d-_eL/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Analysis", "Big-O"]
+	},
+	{
+		number: 24, title: "Log-based Analysis", outDate: "Nov. 1", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0709775-6cf3-4019-9ac6-af1000ecc608", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1WY1MUfEGfMj6D1vujDPsi-FRnE-Kjt-i/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Analysis", "Big-O"]
+	},
 	// {
 	// 	number: 25, title: "VSCode Tips, Polishing, & Trees", outDate: "Nov. 4", active: false,
 	// 	links: [
