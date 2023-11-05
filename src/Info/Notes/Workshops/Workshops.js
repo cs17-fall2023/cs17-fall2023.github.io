@@ -44,12 +44,12 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1eFe5-pmAOKZhCk2pQ_DsDA7n5u8oERjDTqLHqaBbgFQ/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 8, title: "Environments, Debugging, and Analysis", outDate: "Oct. 31-Nov. 1", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1wFzBufgKEU3DQdWf2TJRW2uB9ql1E4mF/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 8, title: "Environments, Debugging, and Analysis", outDate: "Oct. 30-31", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1YDHd1ikXaxN5s9xuwdr5psnyoJMX7d3ic0_CpPX-3OE/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 9, title: "Rackette Concept Review!", outDate: "Nov. 7-8", active: false,
 	// 	links: [
