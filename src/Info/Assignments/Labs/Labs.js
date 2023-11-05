@@ -60,14 +60,14 @@ const labs = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1fdNtFGS_lom9ghLI1vOlDrKHLUdWSPjkYvWAMXE7eeo/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 9, title: "ADTs", dueDate: "Nov. 6-8", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1Wce8ERh3YIqxaG6T0OHofPEDoe-reoQw/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/16l8rSdKltlWppq0gEtmqzDCrBX-RsuSw?usp=sharing", label: "Source Code" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1y-uwJ8xhRvInkyYMgNTcilWf23ve8E4yjBptwYye9oY/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 9, title: "ADTs", dueDate: "Nov. 5-7", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1EPm9Xu_0fKwPUMgl2AXtNLOkWvQHXfck/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1ysAYeN6iY1-Pl6Zc_W-TsCyvoH3vAtNH?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kJ3Gy9RADz0Pb5bST3joSKc4vSb2MaG_7NVLojRiFko/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 10, title: "Game", dueDate: "Nov. 13-15", active: false,
 	// 	links: [
