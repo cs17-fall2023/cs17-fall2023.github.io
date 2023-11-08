@@ -248,15 +248,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Evaluation", "Lambda", "Trees"]
 	// },
-	// {
-	// 	number: 27, title: "Evaluation and Sorting", outDate: "Nov. 10", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1GWNsvpl37mF7GAE-LeSYexZYnw6gO2xO/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5195009-4c92-4743-aa63-af1000ecc67c", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1QctTG0XD0IIXb9KHEmKCi2mVt3fA1deO/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Sorting", "Analysis", "Evaluation"]
-	// },
+	{
+		number: 27, title: "Evaluation and Sorting", outDate: "Nov. 8", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/drive/folders/1xs80927P6598iWm_3oOsV4T8dL2H52An?usp=sharing", label: "Code" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5195009-4c92-4743-aa63-af1000ecc67c", label: "Recording" },
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1jRJ2f18dixtqZmu7H2NYOD19ehQns1AT/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Sorting", "Analysis", "Evaluation"]
+	},
 	// {
 	// 	number: 28, title: "Intro to Game", outDate: "Nov. 11", active: false,
 	// 	links: [

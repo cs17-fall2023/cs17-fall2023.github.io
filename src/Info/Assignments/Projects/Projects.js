@@ -21,16 +21,16 @@ const projects = [
 			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/15kwLQd1im55Ugqzfh_9AT6VDZI7TkR7i/view?usp=sharing", label: "Gearup Recording" }
 		]
 	},
-	// {
-	// 	number: 3, title: "Game", dueDate: "Dec. 5, 11 p.m. EST", active: false,
-	// 	notes: "",
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/16KXy9bfLnmiXTFbBtzeRnLt74B8Jud7T/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/11_P7pghCiPeUp98fnA_GAid1jG6VGFEq?usp=sharing", label: "Source Code" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1i84lrLElvwqFIgAQ47xe1_IvygMGAukrBKutwl5b_jQ/edit#slide=id.p1", label: "Gearup Slides" },
-	// 		{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/1stpweUQQ29dpJdxHLXnPjeDCKv-RLQ2l/view?usp=sharing", label: "Gearup Recording" }
-	// 	]
-	// }
+	{
+		number: 3, title: "Game", dueDate: "Dec. 4, 11 p.m. EST", active: false,
+		notes: "",
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/16KXy9bfLnmiXTFbBtzeRnLt74B8Jud7T/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/11_P7pghCiPeUp98fnA_GAid1jG6VGFEq?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1i84lrLElvwqFIgAQ47xe1_IvygMGAukrBKutwl5b_jQ/edit#slide=id.p1", label: "Gearup Slides" },
+			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/1stpweUQQ29dpJdxHLXnPjeDCKv-RLQ2l/view?usp=sharing", label: "Gearup Recording" }
+		]
+	}
 ]
 
 export default projects;
