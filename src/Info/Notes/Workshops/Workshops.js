@@ -50,12 +50,12 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1YDHd1ikXaxN5s9xuwdr5psnyoJMX7d3ic0_CpPX-3OE/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 9, title: "Rackette Concept Review!", outDate: "Nov. 7-8", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1DAbfxzupsb0AKbo5NY994-vVe_4i1dBUL8Za536JOI8/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 9, title: "Rackette Concept Review!", outDate: "Nov. 6-7", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/13eIf-Gb5F3iZi8NYJWKpH-e112ZSP-QrH_C0_UeYeoA/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 10, title: "Debugging, Modules, and Trees", outDate: "Nov. 21-22", active: false,
 	// 	links: [
