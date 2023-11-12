@@ -68,14 +68,14 @@ const labs = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kJ3Gy9RADz0Pb5bST3joSKc4vSb2MaG_7NVLojRiFko/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 10, title: "Game", dueDate: "Nov. 13-15", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1caf8qhby-jFLF0GAUC9Dp2QIy7IThWr9/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1_sESZXZtsocNMIMynH1ToDZF_JJgJUer?usp=sharing", label: "Source Code" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1wks1fS48p_eRfEBeEhrcyjgsKNSCsDvQfFLiYzJ6kjg/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 10, title: "Game", dueDate: "Nov. 12-14", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/14NDCu4Dsm8CUWz4afm8utfnRvlnVD739/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/15i0fscWWTaWWzsv1hIVwmpgmdBoptJCw?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1S8ci_rLj1PH2DuRlXMjUgJ9DpNa_JyGiwYJo1Mf_deI/edit?usp=sharing", label: "Slides" },
+		]
+	},
 	// {
 	// 	number: 11, title: "Sort", dueDate: "Nov. 20-22", active: false,
 	// 	links: [
