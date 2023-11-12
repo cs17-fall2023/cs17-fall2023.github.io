@@ -55,13 +55,13 @@ const homeworks = [
 			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1o_R4Li1E53CuPyA0aE8whYGkGZChMtfI?usp=sharing", label: "Source Code" },
 		]
 	},
-	// {
-	// 	number: 9, title: "Trees, Trees, ...and Lists", dueDate: "Nov. 16, 11 p.m. EST", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1LfOEMJF2qaal79R4tJziUhyrvGgeynT2/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1LOLf3q1taXQQX_wWREZ-ACux162UrV3O?usp=sharing", label: "Source Code" },
-	// 	]
-	// },
+	{
+		number: 9, title: "Trees, Trees, ...and Lists", dueDate: "Nov. 15, 11 p.m. EST", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1eMq1A3V3lDkeLKdx6MwJtMJirJQSqCwG/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1KrYP4DlMpqWnn5HRv0fW2ya6lcH_-Jlv?usp=sharing", label: "Source Code" },
+		]
+	},
 	// {
 	// 	number: 10, title: "Game Tools", dueDate: "Nov. 22, 11 p.m. EST", active: false,
 	// 	links: [
