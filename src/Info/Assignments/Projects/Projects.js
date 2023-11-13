@@ -22,13 +22,13 @@ const projects = [
 		]
 	},
 	{
-		number: 3, title: "Game", dueDate: "Dec. 4, 11 p.m. EST", active: false,
+		number: 3, title: "Game", dueDate: "Dec. 4, 11 p.m. EST", active: true,
 		notes: "",
 		links: [
-			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/16KXy9bfLnmiXTFbBtzeRnLt74B8Jud7T/view?usp=sharing", label: "Handout" },
-			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/11_P7pghCiPeUp98fnA_GAid1jG6VGFEq?usp=sharing", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1i84lrLElvwqFIgAQ47xe1_IvygMGAukrBKutwl5b_jQ/edit#slide=id.p1", label: "Gearup Slides" },
-			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/1stpweUQQ29dpJdxHLXnPjeDCKv-RLQ2l/view?usp=sharing", label: "Gearup Recording" }
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1_K7fMGxxMxoMplIn8xdsSy_ZATsK62JE/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1b-eW0nP3JwYXvQB6TuYztCTgydGDPCLd?usp=sharing", label: "Source Code" },
+			// { icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1i84lrLElvwqFIgAQ47xe1_IvygMGAukrBKutwl5b_jQ/edit#slide=id.p1", label: "Gearup Slides" },
+			// { icon: <FaYoutube />, link: "https://drive.google.com/file/d/1stpweUQQ29dpJdxHLXnPjeDCKv-RLQ2l/view?usp=sharing", label: "Gearup Recording" }
 		]
 	}
 ]

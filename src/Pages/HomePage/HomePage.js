@@ -118,7 +118,7 @@ class HomePage extends React.Component {
 								<br/>
 								- Homework 9 is due November 15, 11pm EDT!
 								<br />
-								- Rackette is due November 10, 11pm EDT!
+								- Game is due December 4, 11pm EDT!
 							</p>
 						</div>
 					</div>
