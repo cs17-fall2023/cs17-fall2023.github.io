@@ -62,13 +62,13 @@ const homeworks = [
 			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1KrYP4DlMpqWnn5HRv0fW2ya6lcH_-Jlv?usp=sharing", label: "Source Code" },
 		]
 	},
-	// {
-	// 	number: 10, title: "Game Tools", dueDate: "Nov. 22, 11 p.m. EST", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1YpNtLiIZVPRLWM2tpQwizZLGabcsJM1z/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1FI0w0jIYQEoNZ8EJfYzUL-rIebhlaSWS?usp=sharing", label: "Source Code" },
-	// 	]
-	// },
+	{
+		number: 10, title: "Game Tools", dueDate: "Nov. 22, 11 p.m. EST", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/17aymmaoD2zP7HhQW3Ad_lMjCItsuUDFv/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1aDCQ_dnzItte7fSW20Wu74vYbAmReJBW?usp=sharing", label: "Source Code" },
+		]
+	},
 	// {
 	// 	number: 11, title: "Final Exam", dueDate: "Dec. 9, 4 p.m. EST", active: false,
 	// 	links: [
