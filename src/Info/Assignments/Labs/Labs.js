@@ -76,14 +76,14 @@ const labs = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1S8ci_rLj1PH2DuRlXMjUgJ9DpNa_JyGiwYJo1Mf_deI/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 11, title: "Sort", dueDate: "Nov. 20-22", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1T7l_3ZhNv3cuaziqMao6hxl-dau4qr6N/view?usp=sharing", label: "Handout" },
-	// 		{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1qygzXNgaH6triWc7dxpuAnzx_zBmrWix?usp=sharing", label: "Source Code" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1DLX4sRgqyCOclEE6QEBv-iEtzBz7r9jLXa10SF9Crz8/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
+	{
+		number: 11, title: "Sort", dueDate: "Nov. 19-21", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1wFu4zk1FXCPKzYHD0_W0LrEpV-OSUPWo/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1XJVDJntXBJqJD2EC7YfMOUIZmZ9gRrB3?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1apuTYpQzuPilA7bIkL-Wn-Cmr51IinWiAjcEIjVPV6k/edit?usp=sharing", label: "Slides" },
+		]
+	},
 
 ]
 
