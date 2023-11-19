@@ -230,24 +230,24 @@ const classes = [
 		],
 		tags: ["Analysis", "Big-O"]
 	},
-	// {
-	// 	number: 25, title: "VSCode Tips, Polishing, & Trees", outDate: "Nov. 4", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7bf7468-f51d-48a5-b69f-af1000ecc62e", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1HIkDyPwHZt56AiVndq9hr5GOT8URcZfM/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML", "Trees"]
-	// },
-	// {
-	// 	number: 26, title: "Trees and Closures Review", outDate: "Nov. 7", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/146aOPtp5VquDyZ0Xp5JgSM6S-kiGWpvG/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3b1fd73-5b82-43fa-8949-af1000ecc652", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kIeH6K6ricKaUaWeI5qvqWQh-sk5rEsD/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Evaluation", "Lambda", "Trees"]
-	// },
+	{
+		number: 25, title: "Analysis Summary", outDate: "Nov. 3", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7bf7468-f51d-48a5-b69f-af1000ecc62e", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1EfuoXARp9HTA1jwQxUVYCOJYL8ZRT0YI/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Analysis", "Set ADT"]
+	},
+	{
+		number: 26, title: "Trees & Code Beautification", outDate: "Nov. 6", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1vp03btAkS89w4pOMipdAs0MXOtXe43AX/view?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3b1fd73-5b82-43fa-8949-af1000ecc652", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kIeH6K6ricKaUaWeI5qvqWQh-sk5rEsD/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
+		],
+		tags: ["Trees"]
+	},
 	{
 		number: 27, title: "Evaluation and Sorting", outDate: "Nov. 8", active: true,
 		links: [
@@ -257,33 +257,33 @@ const classes = [
 		],
 		tags: ["Sorting", "Analysis", "Evaluation"]
 	},
-	// {
-	// 	number: 28, title: "Intro to Game", outDate: "Nov. 11", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1CQcAN5aruxntEFiq774oTAGA6QYrc0qK/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=677cf5cd-cb32-4369-a2f6-af1000ecc6a1", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1SM2PyuRIT0RwL4eE00jNM-jKDIivH7xn/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Game"]
-	// },
-	// {
-	// 	number: 29, title: "Game - Minimax", outDate: "Nov. 14", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1crBDpJG7TbR_Ay4PbaesxnMSycqwG65-/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36fd200f-b62b-4740-b19f-af1000ecc6e1", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1ksHZq_Q4EQdib41eg7peMq_NmlnJ0Mjs/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Game"]
-	// },
-	// {
-	// 	number: 30, title: "Game - Game Trees / Virtual Trees", outDate: "Nov. 16", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a705422-7a4c-4743-854a-af1000ecc6ff", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1sL9qXL5sgokFoDUo844N-q7mkZMzjZH-/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Game"]
-	// },
+	{
+		number: 28, title: "Merge Sort", outDate: "Nov. 10", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1eIJNwnlSy8bEyEL0yd3KZ2ZQdA7KxOLZ/view?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=677cf5cd-cb32-4369-a2f6-af1000ecc6a1", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1SM2PyuRIT0RwL4eE00jNM-jKDIivH7xn/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
+		],
+		tags: ["Sorting"]
+	},
+	{
+		number: 29, title: "Intro to Game", outDate: "Nov. 13", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1crBDpJG7TbR_Ay4PbaesxnMSycqwG65-/view?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36fd200f-b62b-4740-b19f-af1000ecc6e1", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1YwR867Thy37nGjorXaIckRQhMV6xKuQ9/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Game"]
+	},
+	{
+		number: 30, title: "Game - Game Trees / Virtual Trees", outDate: "Nov. 15", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a705422-7a4c-4743-854a-af1000ecc6ff", label: "Recording" },
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/17Q5nK-UJ-RWcj4na0J4XS-3iUO1RpUJl/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Game", "Minimax"]
+	},
 	// {
 	// 	number: 31, title: "Analysis Redux", outDate: "Nov. 18", active: false,
 	// 	links: [
