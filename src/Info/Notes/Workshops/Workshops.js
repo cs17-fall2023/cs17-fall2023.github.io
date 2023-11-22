@@ -56,19 +56,18 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/13eIf-Gb5F3iZi8NYJWKpH-e112ZSP-QrH_C0_UeYeoA/edit?usp=sharing", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 10, title: "Debugging, Modules, and Trees", outDate: "Nov. 21-22", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1jpVatYFmzScxxGshxC8JA6OPA3NR2h57NbP0Ig1ALKg/edit?usp=sharing", label: "Slides" },
-	// 	]
-	// },
-	// {
-	// 	number: 11, title: "Analysis", outDate: "Nov. 28-29", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1JR5vCW___7HQEDJTMYWvlybFlMOZoNZO3DXkJYBBjoE/edit?usp=sharing", label: "Slides" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 	]
-	// },
+	{
+		number: 10, title: "Debugging, Modules, and Trees", outDate: "Nov. 13-14", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1rT83SeEbdk5r9QAPgVQH4UaKpkKneDMWs_v-RrXiLX0/edit?usp=sharing", label: "Slides" },
+		]
+	},
+	{
+		number: 11, title: "Analysis", outDate: "Nov. 20", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11IaOdfVKWhmuhZFcXOb_wMaKVvXpOybsWnBUhI_I8Ww/edit?usp=sharing", label: "Slides" },
+		]
+	},
 ]
 
 export default workshops;
