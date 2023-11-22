@@ -284,33 +284,33 @@ const classes = [
 		],
 		tags: ["Game", "Minimax"]
 	},
-	// {
-	// 	number: 31, title: "Analysis Redux", outDate: "Nov. 18", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa267fe3-2e50-42d6-afcf-af1000ecc71f", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kL9PHzunNfcFkNebLVUGomN6blSvwmjP/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis"]
-	// },
-	// {
-	// 	number: 32, title: "Limits of Sorting & Computation", outDate: "Nov. 21", active: false,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/15l5NWxjGucdx0hhEvhIQ2WgXwDJDs9l7/view?usp=sharing", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02370343-0ef5-4dae-92c0-af1000ecc741", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1p4jVSDosm97rws7Dl9n2xKQeyNwGRT_4/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Computational Limits"]
-	// },
-	// {
-	// 	number: 33, title: "All You Need Is Lambda", outDate: "Nov. 23", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=880eab6e-c4a4-4201-898d-af1000ecc76c", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1PvfU8-LZa4yeLU5nd0gkYB15MSVWK7lK/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: ["Computational Limits"]
-	// },
+	{
+		number: 31, title: "Game - Minimax + Practical Considerations", outDate: "Nov. 17", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1AFuNKSbMhbnnqaPd7PG2brSigib6oL87/view?usp=sharing", label: "Code" },
+		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa267fe3-2e50-42d6-afcf-af1000ecc71f", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1SHjv1x24FkwqHCY--TH18BKdhx6JXfKn/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Game", "Minimax"]
+	},
+	{
+		number: 32, title: "Alpha-Beta Pruning", outDate: "Nov. 20", active: true,
+		links: [
+		//	{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/15l5NWxjGucdx0hhEvhIQ2WgXwDJDs9l7/view?usp=sharing", label: "Notes" },
+		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02370343-0ef5-4dae-92c0-af1000ecc741", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1A_hua_2INKg1l07soTj-aTcIfINBizMI/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Game, Minimax"]
+	},
+	{
+		number: 33, title: "All You Need Is Lambda", outDate: "Nov. 22", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/drive/folders/1i805iLzRSEvZWbn9vyVCWdUWmnHbsWG-?usp=sharing", label: "Code" },
+		//	{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=880eab6e-c4a4-4201-898d-af1000ecc76c", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1v8_9C8hIuc420s1CiERGM2xZQtuH-N4p/edit?usp=sharing&ouid=106417929176948026815&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Computational Limits", "Lambda"]
+	},
 	// {
 	// 	number: 34, title: "Miscellany", outDate: "Nov. 28", active: false,
 	// 	links: [
