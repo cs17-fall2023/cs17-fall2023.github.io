@@ -68,6 +68,12 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11IaOdfVKWhmuhZFcXOb_wMaKVvXpOybsWnBUhI_I8Ww/edit?usp=sharing", label: "Slides" },
 		]
 	},
+	{
+		number: 12, title: "Analysis", outDate: "Nov. 27", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11IaOdfVKWhmuhZFcXOb_wMaKVvXpOybsWnBUhI_I8Ww/edit?usp=sharing", label: "Slides" },
+		]
+	},
 ]
 
 export default workshops;
