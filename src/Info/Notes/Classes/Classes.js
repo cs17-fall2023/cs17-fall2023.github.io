@@ -311,24 +311,24 @@ const classes = [
 		],
 		tags: ["Computational Limits", "Lambda"]
 	},
-	// {
-	// 	number: 34, title: "Miscellany", outDate: "Nov. 28", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=259a581c-84f6-4958-b570-af1000ecc7b1", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Vl7q0nc3xe7gY7z6rFbxr-4g7vW25lUK/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: []
-	// },
-	// {
-	// 	number: 35, title: "Stacks & Divide and Conquer", outDate: "Nov. 30", active: false,
-	// 	links: [
-	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e62b3f2-5d58-4efa-9e8a-af1000ecc7d3", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1gjgiOUSCS8TyHYh7j-nczImTieZLW4no/edit?usp=sharing&ouid=102918815439366304366&rtpof=false&sd=false", label: "Slides" },
-	// 	],
-	// 	tags: []
-	// },
+	{
+		number: 34, title: "Big-O, Limits on Sorting", outDate: "Nov. 27", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1JJJX4Y7GhxmGnwZMyCX57dWavftnz9iw/view?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=259a581c-84f6-4958-b570-af1000ecc7b1", label: "Recording" },
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/12PkwUPhgv6o0xUQ5jpSzlIssUDHWWtx8/view?usp=sharing", label: "Code" },
+		],
+		tags: ["Trees", "Sorting", "Comparison"]
+	},
+	{
+		number: 35, title: "Limits", outDate: "Nov. 29", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/17OQWAM5TUosUWm9YoU5fv7VgFTMjYNoS/view?usp=sharing", label: "Notes" },
+			// { icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e62b3f2-5d58-4efa-9e8a-af1000ecc7d3", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1GY1Xo-H-oyXXlOh_FNP2jH5eKKqimTMW/edit?usp=sharing&ouid=104062516653910080286&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Limits", "Computation"]
+	},
 	// {
 	// 	number: 36, title: "Alternative Approach to Playing a Game", outDate: "Dec. 2", active: false,
 	// 	links: [
